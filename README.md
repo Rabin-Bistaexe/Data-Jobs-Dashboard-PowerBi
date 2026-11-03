@@ -30,13 +30,14 @@ You can filter by job title and use the drill-through feature to see detailed in
 
 ### Screenshots
 
-<img width="1335" height="743" alt="Main Dashboard" src="https://github.com/user-attachments/assets/966fbed7-d85c-4414-bb65-1c07df6f4caf" />
+**Main Dashboard**  
+![Main Dashboard](Main%20Dashboard.png)
 
+**Senior Data Scientist**  
+![Senior Data Scientist](Senior%20Data%20Scientist.png)
 
-<img width="1325" height="742" alt="Senior Data Analyst" src="https://github.com/user-attachments/assets/b8e276e2-91d5-474a-b503-064b4202d75c" />
-
-
-<img width="1327" height="742" alt="Senior Data Scientist" src="https://github.com/user-attachments/assets/c4fdb950-b05b-4b72-a21a-47ee8de1a8e6" />
+**Senior Data Analyst**  
+![Senior Data Analyst](Senior%20Data%20Analyst.png)
 
 
 ### Some Insights
